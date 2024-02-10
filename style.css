@@ -1,0 +1,260 @@
+*{
+    background-color: black;
+    color: white;
+}
+
+#title{
+    
+    height:100px;
+    width: 1260px;
+    background-color: black;
+    color: white;
+    display: flex;
+}
+#netflix{
+    color: red;
+    margin-left: 150px;
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 40px;
+    margin-top: 10px;
+}
+
+#lang{
+    margin-left: 500px;
+    margin-top: 20px;
+    height: 30px;
+    width: 100px;
+    border: 1px solid black;
+    border-radius: 10px;
+    text-align: center;
+    font-weight: 900;
+}
+#button1{
+    margin-left: 20px;
+    height: 30px;
+    margin-top: 20px;
+    background-color: red;
+    color: white;
+    border: 1px solid black;
+    border-radius: 10px;
+    width: 100px;
+   
+}
+#bp1{
+    position: relative;
+    top: 20px;
+}
+#bp3{
+    font-weight: 800;
+}
+#bp4{
+    font-weight: 800;
+}
+
+#body{
+    text-align: center;
+    background-image: url(canva.png);
+    height: 300px;
+    backdrop-filter: blur(5px);
+    padding-top: 50px;
+    padding-bottom: 100px;
+
+}
+
+#bp1{
+    font-size:xx-large;
+    font-weight: 800;
+}
+#bp2{
+    font-size:xx-large;
+    font-weight: 800;
+}
+#bp3{
+    font-size:larger;
+}
+
+
+p{
+    background: none;
+}
+#inputlogin{
+    background: none;
+}
+.c1{
+    height: 40px;
+    width: 300px;
+    
+}
+#input1{
+        background-color: white;
+        color: black;
+        border: 2px solid black;
+        text-align: center;
+}
+#b1{
+    background-color: red;
+    color: white;
+    border: 2px solid black;
+    height: 47px;
+    width: 300px;
+}
+#bp3{
+    background: none;
+    text-align: center;
+    padding-bottom: 5px;
+
+}
+#bp4{
+    background: none;
+}
+#blank1{
+    height: 500px;
+   
+}
+#tv{
+    height: 1000px;
+    width: 900px;
+   
+   
+}
+#video1{
+    height: 450px;
+    width: 450px;
+    
+    background: none;
+    position: relative;
+    top: -400px;
+    left: 700px;
+}
+#h2{
+    margin-left: 150px;
+    font-size: xx-large;
+    font-weight: 900;
+    margin-top: 50px;
+    
+}
+.c2{
+    margin-left: 150px;
+    font-size: x-large;
+}
+#blank2{
+    height: 100px;
+    border: 1px solid green;
+    position:relative;
+    top: -700px;
+}
+#video2{
+    height: 450px;
+    width: 450px;
+   
+}
+.c3{
+    margin-left: 800px;
+   
+}
+.c4{
+    margin-left: 800px;
+   
+}
+#video2{
+    position: relative;
+    top: -400px;
+    left: 150px;
+    position: relative;
+    top: -430px;
+    
+}
+.c3{
+    font-size: xx-large;
+}
+.c4{
+    font-size: x-large;
+}
+#h3{
+    position: relative;
+    top: 25px;
+}
+#h5{
+    position: relative;
+    top:-20px;
+}
+#h6{
+   
+    margin-left: 100px;
+    font-size: xx-large;
+    font-weight: 900;
+    
+}
+.c5{
+    margin-left: 100px;
+    font-size: x-large;
+    z-index: 2;
+}
+#img1{
+    margin-left: 550px;
+    border: 1px solid white;
+    position: relative;
+    top: -300px;
+    border-radius: 15px;
+}
+.c6{
+    margin-left: 800px;
+    font-size: xx-large;
+    font-weight: 900;
+}
+.c7{
+    margin-left: 800px;
+    position: relative;
+    top: -30px;
+}
+#h8{
+    position:relative;
+    top: -20px;
+}
+#img2{
+    position:relative;
+    top: -400px;
+    left: 100px;
+}
+#conclusion{
+    
+    display: flex;
+    
+    height: 150px;
+   
+   
+}
+#end1{
+   position: relative;
+   top: 5px;
+   left: 30px;
+   
+    
+}
+#end2{
+    position: relative;
+    top: 20px;
+    left: -200px;
+    background: none;
+   
+
+    
+   
+}
+#end3{
+    background: none;
+   
+    position: relative;
+    top: 20px;
+    left: 100px;
+}
+#end4{
+    background: none;
+   
+    position: relative;
+    top: 30px;
+    left: 400px;
+}
+
+
+
